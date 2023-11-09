@@ -1,4 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=Cylinder&text=Welcome to my log👩‍💻🙉 )
+![header](https://capsule-render.vercel.app/api?type=cylinder&text=Welcome to my log)
+
+👩‍💻🙉 
 
 <br/>
 <br/>
