@@ -19,6 +19,6 @@
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
  
 
- <h3 text-align="center">💘It's Me💘</h3>
+ <h3>💘It's Me💘</h3>
  <hr>
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=djsumin)](https://github.com/anuraghazra/github-readme-stats)
+
