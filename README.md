@@ -1,6 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Wave&text=djsumin,my-hub)
-
-### :wave: Welcome to my github 👋
+![header](https://capsule-render.vercel.app/api?type=Cylinder&text=Welcome to my log👩‍💻🙉 )
 
 <br/>
 <br/>
