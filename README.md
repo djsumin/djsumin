@@ -1,4 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=cylinder&text=Welcome_to_my_log&fontSize=40)
+<img width="100%" src="https://github.com/djsumin/djsumin/assets/136299367/6e87a583-a5e7-4bbb-a1e5-ecb1ac7c878a"/>
 
 👩‍💻🙉 
 
