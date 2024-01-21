@@ -33,6 +33,5 @@
  
 
  <h3>💘It's Me💘</h3>
- [![코드트리|실력진단-judy3504](https://banner.codetree.ai/v1/banner/judy3504)](https://www.codetree.ai/profiles/judy3504)
- <hr>
+[![코드트리|실력진단-judy3504](https://banner.codetree.ai/v1/banner/judy3504)](https://www.codetree.ai/profiles/judy3504)
 
