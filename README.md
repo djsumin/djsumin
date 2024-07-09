@@ -2,7 +2,7 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&text=welcome%20my%20hub&animation=fadeIn&fontColor=ffffff&fontSize=40" />
     </div>
     <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 풀스택 지향합니다 </h2>  
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 풀스택을 지향합니다 </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> <li> 저는 지속적으로 성장 가능한 개발자를 꿈꿉니다! </div> 
     </div>
     <div align= "center">
